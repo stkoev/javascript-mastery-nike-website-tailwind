@@ -6,7 +6,7 @@ import SpecialOffer from "./SpecialOffer";
 import CustommerReviews from "./CustommerReviews";
 import Subscribe from "./Subscribe";
 import Footer from "./Footer";
-import Nav from "./Nav";
+import Nav from "../components/Nav";
 
 export {
   Hero,
